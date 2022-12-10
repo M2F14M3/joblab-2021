@@ -1,0 +1,108 @@
+{
+    "restaurants": [
+        {
+            "id": 0,
+            "category": "0",
+            "nameValue": "Le Calandre",
+            "cityValue": "Sarmeola di Rubano (PD)",
+            "addressValue": "Via Liguria, 1 - 35030",
+            "openingValue": "Martedì - Sabato: 20:00/22:00",
+            "telephoneValue": "+39 049 630303",
+            "descriptionValue": "Le Calandre in Provicia di Padova: il luogo si trova esattamente a Sarmeola di Rubano e nacque dall’idea di Erminio and Rita Alajmo, è uno dei ristoranti di lusso italiani  più famosi al mondo, con ben tre stelle Michelin. La cucina si rifa alla tradizione, ma è anche aperta all’inovazione, infatti, vi è una continua sperimentazione di sapori e combinazione: nel ristorante si può comporre anche il menù in modo personalizzato. La famiglia Alajmo che ancora gestisce il ristorante ha aperto altri locali, in provincia di Padova e a Venezia ed organizza anche eventi."
+        },
+        {
+            "id": 1,
+            "category": "0",
+            "nameValue": "Osteria Francescana",
+            "cityValue": "Modena (MO)",
+            "addressValue": "Via Stella, 22 - 41121",
+            "openingValue": "Lunedì - Domenica: 12:30/16:30",
+            "telephoneValue": "+39 059 223912",
+            "descriptionValue": "Osteria Francescana a Modena:  è senza alcun dubbio uno dei ristoranti di Lusso più famosi d’Italia, lo chef Bottura ha una passione per la cucina italiana tradizionale, infatti, nei suoi piatti riprende i classici della tradizione ma li rivisita e ne fa un’opera d’arte nuova. Per esempio i suoi Tortellini in brodo sono creati utilizzando le carni di vari animali perché lo chef spiega appunto che nei tempi passati si utilizzavano gli avanzi di ogni tipo di animale: piccione, manzo, pollo e così via… Lo stile minimal dell’arredamento la dice lunga sul tipo di cucina: semplice e raffinata."
+        },
+        {
+            "id": 2,
+            "category": "0",
+            "nameValue": "Ristorante Cracco",
+            "cityValue": " Milano (MI)",
+            "addressValue": "Galleria Vittorio Emanuele, 2 - 20121",
+            "openingValue": "Lunedì - Domenica: 12.30 – 15.00",
+            "telephoneValue": "+39 02 876774",
+            "descriptionValue": "Ristorante Cracco di Milano: questo posto prende il nome dallo chef e ideatore Carlo Cracco, è uno dei tre giudici di Masterchef Italia. Questo è uno dei ristortanti di lusso italiani più famosi al mondo, nominato in moltissime occasioni dalla stampa internazionale: uno tra i 50 migliori ristoranti al mondo."
+        },
+        {
+            "id": 3,
+            "category": "0",
+            "nameValue": "Ristorante Gran Canal di Venezia",
+            "cityValue": "Venezia (VE)",
+            "addressValue": "San Marco, 1332 - 30124",
+            "openingValue": "Lunedì - Domenica: 7:00 - 14:30, 19:30 - 22:00",
+            "telephoneValue": "+39 041 520 0211",
+            "descriptionValue": "Ristorante Gran Canal di Venezia: il ristorante è parte dell’Hotel Monaco e come dice il nome stesso, si affaccia sul Gran Canale, il canale più imponente e maestoso della città. Non solo dal ristorante si può ammirare una vista favolosa, ma anche gli interni sono principeschi, nonchè essere uno dei ristoranti consigliati dalla guida Michelin: nel luogo si assapora cucina tipica veneziana, ma anche pesce e tante verdure cucinate in modo fantasioso."
+        },
+        {
+            "id": 4,
+            "category": "0",
+            "nameValue": "Ristorante Aroma",
+            "cityValue": "Roma (RM)",
+            "addressValue": "Via Labicana, 125 - 00184",
+            "openingValue": "Giovedì - Domenica: 12:30 - 14:30",
+            "telephoneValue": "+39 06 97615109",
+            "descriptionValue": "Ristorante Aroma a Roma: questo ristorante oltre ad essere uno dei ristoranti di lusso italiani più famosi nella storia è anche uno dei ristoranti con la vista più bella, infatti, si affaccia sull’incantevole Colosseo. La cucina si compone da ingredienti freschissimi e la carta dei vini è ricchissima, più di 400 etichette. Il ristorante è stato premiato anche di una stella Michelin lo scorso anno."
+        }
+    ],
+    "hotels": [
+        {
+            "id": 0,
+            "category": "1",
+            "nameValue": "BELVEDERE HOTEL",
+            "cityValue": "Riccione (RN)",
+            "addressValue": "V.le Gramsci, 95 - 47838",
+            "telephoneValue": "+39 0541 601506",
+            "descriptionValue": "Benvenuti al BELVEDERE Hotel di RICCIONE! Sono lieta di accogliervi nel mio albergo,un posto che ogni anno si anima delle migliorivirtù italiane: calda OSPITALITA', grande CUCINA, amore per i dettagli e naturalmente spirito della FESTA. Noi siamo e vogliamo essere quella VACANZA al mare che ha un tocco di GLAMOUR e un pizzico di follia.Vi aspetto, Marina"
+        },
+        {
+            "id": 1,
+            "category": "1",
+            "nameValue": "HOTEL SPADAI",
+            "cityValue": "Firenze",
+            "addressValue": "Via dei Martelli, 10 - 50129",
+            "telephoneValue": "39.055.6270800",
+            "descriptionValue": "Inaugurato nel 2015, l'Hotel Spadai è il nuovo boutique hotel 4 stelle in centro a Firenze, frutto del completo restauro di un imponente Palazzo Rinascimentale a soli 100 metri dal Duomo.Le sue Camere e Suite sono lussuose oasi urbane dove i materiali di ispirazione quattrocentesca si fondono con il sofisticato arredo contemporaneo.Il suo staff è composto dai migliori giovani talenti sulla piazza, un team di professionisti dell'accoglienza capaci di trasformare un semplice viaggio a Firenze nella più emozionante esperienza della vostra vita."
+        }
+    ],
+    "flights": [
+        {
+            "id": 0,
+            "category": "2",
+            "destinationValue": "Volo per Londra",
+            "priceValue": "50€",
+            "companyValue": "Alitalia",
+            "codeValue": "vinfdin43",
+            "descriptionValue": "Volo per Londra con scalo a Monaco(Germania)"
+        }
+    ],
+    "places": [
+        {
+            "id": 0,
+            "category": "3",
+            "placeValue": "Antelope Canyon",
+            "locationValue": "Arizona - USA",
+            "descriptionValue": "L'Antelope Canyon è lo slot canyon più visitato degli Stati Uniti sudoccidentali. Si trova sulla terra Navajo vicino a Page, Arizona."
+        },
+        {
+            "id": 1,
+            "category": "3",
+            "placeValue": "Salar de Uyuni",
+            "locationValue": "Bolivia",
+            "descriptionValue": "Il Salar de Uyuni (anche noto in spagnolo come Salar de Tunupa e in inglese come Uyuni salt flats) è un enorme deserto di sale che, con i suoi 10.582 km², è tra i più grandi al mondo formatosi a seguito della progressiva evaporazione di un lago salato, nonché in assoluto la più grande distesa salata del pianeta. È situato nei dipartimenti di Potosí e di Oruro, nei pressi della città di Uyuni, nell'altiplano andino meridionale della Bolivia, a 3.650 metri di quota."
+        },
+        {
+            "id": 2,
+            "category": "3",
+            "placeValue": "Parco Nazionale dei Monti Sibellini",
+            "locationValue": "Italia",
+            "descriptionValue": "13°11′42″E / 42.906°N 13.195°E42.906; 13.195 Il parco nazionale dei Monti Sibillini è un parco nazionale che tutela l'ambiente naturale del massiccio montuoso 15 KB (1 591 parole) - 18:19, 15 feb 2021"
+        }
+    ]
+}
